@@ -34,4 +34,4 @@ $ npm run start:dev
 ![Arquitetura](https://raw.githubusercontent.com/Cristuker/url-redirect/main/docs/REDIRECT-API.png)
 
 
-<p align="center">Made whit ❤️ by <strong><a href="cristiansilva.dev" target="blank" >Cristian</></p></strong>
+<p align="center">Made with ❤️ by <strong><a href="cristiansilva.dev" target="blank" >Cristian</></p></strong>
